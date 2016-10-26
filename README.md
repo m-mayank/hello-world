@@ -8,6 +8,6 @@ Backbone.History.Polyfil is a plugin which can be loaded along with Backbone fra
 
 ## Download + Source
 
-Clone this repository or simply [download] 
+Clone this repository or simply [download]()
 
 You must also ensure that Backbone.History.Polyfil's dependencies on Backbone are downloaded.
