@@ -45,7 +45,7 @@ Backbone.History.Polyfil currently works with the following libraries:
 
 * [jQuery](http://jquery.com) v1.8+
 * [Underscore](http://underscorejs.org) v1.8.3
-* [Backbone](http://backbonejs.org) v1.3.3
+* [Backbone](http://backbonejs.org) v1.2.1+
 
 ### License
 
