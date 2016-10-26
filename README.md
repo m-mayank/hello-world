@@ -24,9 +24,11 @@ By default validate hash is set to true, but it can be configured based on the r
 
 ### getPreviousHash
 Once the application is started, the below method can be called to get the previous hash.
+
 `Backbone.history.getPreviousHash()`
 
 If Backbone history is not started, on aclling the above method it will throw an error.
+
 `Backbone.history has not been started(…)`
 
 ## F.A.Q.
