@@ -55,6 +55,10 @@ MIT
 
 ## Change Log
 
+#### 0.5.0
+
+- Initial release.
+
 ## How to Contribute
 
 If you would like to contribute to Backbone History Polyfill's source code, please read the [guidelines for pull requests and contributions]().
